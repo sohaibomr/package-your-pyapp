@@ -1,0 +1,4 @@
+*.pyc
+*/*.pyc
+.eggs
+*.eggs
